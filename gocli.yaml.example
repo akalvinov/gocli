@@ -1,0 +1,10 @@
+envFileName: gocli.env
+secretName: development/goto
+validate:
+  - XXA
+  - KEY_ONE
+  - KEY_TWO
+  - ALPHA_X
+secretsMap:
+  goto1.file: development/goto
+  goto.file: development/goto  
